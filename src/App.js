@@ -9,6 +9,13 @@ function App() {
         <Sidenav />
         <Body />
       </div>
+      <footer class="footer">
+        created by
+        <a href="https://devchallenges.io/portfolio/prasannakarki77">
+          prasannakarki77
+        </a>
+        - devChallenges.io
+      </footer>
     </BrowserRouter>
   );
 }

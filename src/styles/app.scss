@@ -7,4 +7,15 @@
   display: flex;
 }
 
+.footer {
+  text-align: center;
+  margin-top: 50px;
 
+  a {
+    color: rgb(116, 115, 115);
+    transition: all 0.3s;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
