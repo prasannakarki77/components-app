@@ -5,7 +5,7 @@ import Buttons from "./components/Buttons";
 const Body = () => {
   return (
     <Routes>
-      <Route path="/buttons" element={<Buttons />} />
+      <Route path="/" element={<Buttons />} />
     </Routes>
   );
 };
