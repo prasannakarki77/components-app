@@ -13,7 +13,7 @@ const Inputs = () => {
       <Input error />
       <br />
       <p className="component-structure">
-        {'    <Input error helperText = "Some Interesting text" />'}{" "}
+        {'    <Input  helperText = "Some Interesting text" error />'}{" "}
       </p>
       <Input error helperText={"Some Interesting text"} />
       <br />
