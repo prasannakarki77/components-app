@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h3>
+  <h2>
     <span>Button component  </span>
     <a href="https://devchallenges.io/solutions/nXtDuDqIUy3grFzlIYOO" target="_blank">
      Solution 
@@ -32,7 +32,7 @@
      <a href="https://iridescent-blini-966516.netlify.app/inputs" target="_blank">
       Demo
     </a>
-  </h3>
+  </h2>
 </div>
 
 <!-- TABLE OF CONTENTS -->
