@@ -23,7 +23,7 @@ const Sidenav = () => {
         <NavLink to="/buttons">
           <li className="sidenav__link">Buttons</li>
         </NavLink>
-        <NavLink to="/">
+        <NavLink to="/inputs">
           <li className="sidenav__link">Inputs</li>
         </NavLink>
         <NavLink to="/">

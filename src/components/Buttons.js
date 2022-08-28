@@ -7,7 +7,7 @@ import { MdWarning } from "react-icons/md";
 import "../styles/button.scss";
 const Buttons = () => {
   return (
-    <div className="buttons-container">
+    <div className="components-container">
       <Button />
       <Button variant="outline" />
       <Button variant="text" />

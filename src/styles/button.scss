@@ -1,4 +1,4 @@
-.buttons-container {
+.components-container {
   display: flex;
   flex-wrap: wrap;
 }
@@ -89,7 +89,11 @@
   &__state {
     &--disabled {
       cursor: not-allowed;
-      pointer-events: none;
+
+      &:hover,
+      &:focus {
+        background: none;
+      }
     }
     &--disableShadow {
       box-shadow: none;
